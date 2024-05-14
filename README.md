@@ -1,7 +1,5 @@
 
 
-<title>Quiz Game</title>
-</head>
 <body>
 
 <h1>Quiz Game</h1>
