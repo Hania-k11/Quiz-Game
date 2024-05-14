@@ -46,7 +46,7 @@
     <li>After completing the quiz, view your score and any incorrectly answered questions.</li>
 </ol>
 
-<img src="https://imgur.com/a/WD9i1iN" >
+
 
 </body>
 </html>
