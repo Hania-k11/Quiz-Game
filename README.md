@@ -46,6 +46,8 @@
     <li>After completing the quiz, view your score and any incorrectly answered questions.</li>
 </ol>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WD9i1iN" data-context="false" ><a href="//imgur.com/a/WD9i1iN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 </body>
 </html>
 
